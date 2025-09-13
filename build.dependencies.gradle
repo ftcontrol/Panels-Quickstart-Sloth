@@ -17,5 +17,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
 
     implementation "com.bylazar:fullpanels:1.0.6"
-//    implementation("dev.frozenmilk.sinister:Sloth:0.2.4")
+    implementation("dev.frozenmilk.sinister:Sloth:0.2.4")
 }
